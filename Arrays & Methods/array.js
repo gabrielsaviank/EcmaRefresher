@@ -12,4 +12,5 @@ for (let hobby of hobbies) {
 or the elements, the funciton will be executed on every element of the array */
 console.log(hobbies.map( hobby => {
     return 'Hobby: ' + hobby;
-}));
+})); 
+ 
