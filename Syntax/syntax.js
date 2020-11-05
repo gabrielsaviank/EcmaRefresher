@@ -11,3 +11,11 @@ function summariseUser(userName) {
     return "Name is " + userName 
 };
 
+//Actualised Syntax 
+
+let namee = "Gabriel"
+
+let agee = "25";
+
+//Never Changes
+const hasHobbies = true; 
